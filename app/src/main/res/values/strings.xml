@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TakvimApp</string>
+    <string name="geri"><![CDATA[<-]]></string>
+    <string name="ileri"><![CDATA[->]]></string>
+    <string name="paz">Paz</string>
+    <string name="cmt">Cmt</string>
+    <string name="cum">Cum</string>
+    <string name="per">Per</string>
+    <string name="çar">Çar</string>
+    <string name="sal">Sal</string>
+    <string name="pzt">Pzt</string>
+    <string name="may_2023">May 2023</string>
+    <string name="_1">1</string>
+    <string name="yeniolay">YeniOlay</string>
+    <string name="haftalik">Haftalik</string>
+</resources>
